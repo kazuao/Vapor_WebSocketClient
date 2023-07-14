@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "9128bddf19fba0981a63501d93576aa68eea74b94950fdfb6609cecdbff7cdec"
-build_start_time: [1688114765, 244434000]
-build_end_time: [1688114770, 775186000]
-inputs:
-  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift": [1688114737, 915754599]
-  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift"
-  : [1688114737, 916128512]

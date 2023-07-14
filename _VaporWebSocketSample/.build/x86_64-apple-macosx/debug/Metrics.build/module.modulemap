@@ -1,4 +1,0 @@
-module Metrics {
-    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/Metrics.build/Metrics-Swift.h"
-    requires objc
-}

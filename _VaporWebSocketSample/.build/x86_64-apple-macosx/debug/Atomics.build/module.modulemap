@@ -1,4 +1,0 @@
-module Atomics {
-    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/Atomics.build/Atomics-Swift.h"
-    requires objc
-}

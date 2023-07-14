@@ -1,4 +1,0 @@
-module Algorithms {
-    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/Algorithms.build/Algorithms-Swift.h"
-    requires objc
-}

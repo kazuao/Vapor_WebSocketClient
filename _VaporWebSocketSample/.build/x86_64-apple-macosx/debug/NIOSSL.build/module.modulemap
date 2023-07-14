@@ -1,4 +1,0 @@
-module NIOSSL {
-    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOSSL.build/NIOSSL-Swift.h"
-    requires objc
-}

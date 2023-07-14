@@ -1,4 +1,0 @@
-module CBacktrace {
-    umbrella "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/checkouts/swift-backtrace/Sources/CBacktrace/include"
-    export *
-}

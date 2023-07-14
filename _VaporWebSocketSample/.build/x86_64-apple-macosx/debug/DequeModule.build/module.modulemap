@@ -1,4 +1,0 @@
-module DequeModule {
-    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/DequeModule.build/DequeModule-Swift.h"
-    requires objc
-}

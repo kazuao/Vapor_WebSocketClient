@@ -1,4 +1,0 @@
-module _CryptoExtras {
-    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/_CryptoExtras.build/_CryptoExtras-Swift.h"
-    requires objc
-}

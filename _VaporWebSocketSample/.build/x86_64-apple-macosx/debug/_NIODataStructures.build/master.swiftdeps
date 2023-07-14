@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "501a2f9748105515f1e092c4ff5e63eb623b095fd811334cff7c5865de72d5b1"
-build_start_time: [1688114763, 963319000]
-build_end_time: [1688114771, 282208000]
-inputs:
-  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/_NIODataStructures/Heap.swift"
-  : [1688114740, 679034156]
-  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/_NIODataStructures/PriorityQueue.swift"
-  : [1688114740, 679208616]

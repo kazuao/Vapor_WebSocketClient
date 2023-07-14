@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "42953b8aa720710276e4462b7d2aa1464e2763ff32186e84474f16aaeeb0dba0"
-build_start_time: [1688114816, 360012000]
-build_end_time: [1688114816, 658543000]
-inputs:
-  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIO/Exports.swift": [1688114740, 613380888]

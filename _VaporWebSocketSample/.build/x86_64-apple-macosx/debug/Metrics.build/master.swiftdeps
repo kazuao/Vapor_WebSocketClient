@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "0d128479bd15235b74db3959dbdda741560f80ff8dbcdcc72ab550317c23c8a0"
-build_start_time: [1688114771, 101980000]
-build_end_time: [1688114784, 377204000]
-inputs:
-  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": [1688114737, 916877615]

@@ -1,4 +1,0 @@
-module NIOTransportServices {
-    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTransportServices.build/NIOTransportServices-Swift.h"
-    requires objc
-}
