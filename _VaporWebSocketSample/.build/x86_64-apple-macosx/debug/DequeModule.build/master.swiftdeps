@@ -1,0 +1,43 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "18c91d0216a1e2d286e1f55b7e9696fcb47adea640734149433bb78110e325fa"
+build_start_time: [1688114765, 110726000]
+build_end_time: [1688114770, 782431000]
+inputs:
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Compatibility.swift"
+  : [1688114743, 477822615]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift"
+  : [1688114743, 478094394]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift"
+  : [1688114743, 479225750]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomDebugStringConvertible.swift"
+  : [1688114743, 479893557]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift"
+  : [1688114743, 480171678]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomStringConvertible.swift"
+  : [1688114743, 480440699]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift"
+  : [1688114743, 480672722]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift"
+  : [1688114743, 480901486]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift"
+  : [1688114743, 481158683]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift"
+  : [1688114743, 481356719]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift"
+  : [1688114743, 481914871]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift"
+  : [1688114743, 482171616]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift"
+  : [1688114743, 482506418]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/Deque.swift"
+  : [1688114743, 482779048]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/UnsafeMutableBufferPointer+Utilities.swift"
+  : [1688114743, 483919171]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift"
+  : [1688114743, 484173730]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift"
+  : [1688114743, 484380777]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift"
+  : [1688114743, 484571337]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift"
+  : [1688114743, 484779674]

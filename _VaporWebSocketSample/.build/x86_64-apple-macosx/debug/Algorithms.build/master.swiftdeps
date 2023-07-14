@@ -1,0 +1,55 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "98bf837cfb2144b486a71b33343475004e53797fba5e4d32f4617a1dfa503a6d"
+build_start_time: [1688114769, 841507000]
+build_end_time: [1688114775, 929692000]
+inputs:
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/AdjacentPairs.swift"
+  : [1688114742, 602198618]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Chain.swift"
+  : [1688114742, 602450017]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Chunked.swift"
+  : [1688114742, 602796538]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Combinations.swift"
+  : [1688114742, 603209151]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Compacted.swift"
+  : [1688114742, 603424852]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Cycle.swift"
+  : [1688114742, 603729598]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/EitherSequence.swift"
+  : [1688114742, 603929607]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/FirstNonNil.swift"
+  : [1688114742, 604191886]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/FlattenCollection.swift"
+  : [1688114742, 604384674]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Indexed.swift"
+  : [1688114742, 604560840]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Intersperse.swift"
+  : [1688114742, 604837939]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Joined.swift"
+  : [1688114742, 605086631]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/MinMax.swift"
+  : [1688114742, 605330234]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Partition.swift"
+  : [1688114742, 605556927]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Permutations.swift"
+  : [1688114742, 605830421]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Product.swift"
+  : [1688114742, 606390422]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/RandomSample.swift"
+  : [1688114742, 606647940]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Reductions.swift"
+  : [1688114742, 606995380]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Rotate.swift"
+  : [1688114742, 607253415]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Split.swift"
+  : [1688114742, 607535979]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Stride.swift"
+  : [1688114742, 607782489]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Suffix.swift"
+  : [1688114742, 607939227]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Trim.swift"
+  : [1688114742, 608117048]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Unique.swift"
+  : [1688114742, 608286157]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-algorithms/Sources/Algorithms/Windows.swift"
+  : [1688114742, 608513448]

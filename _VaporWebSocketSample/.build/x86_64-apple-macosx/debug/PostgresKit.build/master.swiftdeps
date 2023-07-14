@@ -1,0 +1,33 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7a3b76b6e94e92451894cd03323ab0e2697426d27b69a6a3dfdbe463114e7d2a"
+build_start_time: [1688114864, 199787000]
+build_end_time: [1688114867, 765644000]
+inputs:
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/ConnectionPool+Postgres.swift"
+  : [1688114739, 60564675]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresColumnType.swift"
+  : [1688114739, 61358628]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConfiguration.swift"
+  : [1688114739, 61640374]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConnectionSource+PostgresConfiguration.swift"
+  : [1688114739, 61816812]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataDecoder.swift"
+  : [1688114739, 61995275]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataEncoder.swift"
+  : [1688114739, 62690442]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDatabase+SQL+Deprecated.swift"
+  : [1688114739, 62911891]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/Exports.swift"
+  : [1688114739, 63284322]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConnectionSource.swift"
+  : [1688114739, 63460548]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataTranslation.swift"
+  : [1688114739, 63682806]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDatabase+SQL.swift"
+  : [1688114739, 63867273]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDialect.swift"
+  : [1688114739, 64006756]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresRow+SQL.swift"
+  : [1688114739, 64137784]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/postgres-kit/Sources/PostgresKit/SQLPostgresConfiguration.swift"
+  : [1688114739, 64278663]

@@ -1,0 +1,24 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "82e2169b6ee0d927873dfc4b360a8a42fac6880dd58ac6a706b2f4851a94be4c"
+build_start_time: [1688114764, 514388000]
+build_end_time: [1688114769, 140260000]
+inputs:
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/AlgebraicField.swift"
+  : [1688114741, 38264728]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/ApproximateEquality.swift"
+  : [1688114741, 38439902]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/AugmentedArithmetic.swift"
+  : [1688114741, 38620787]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/Double+Real.swift"
+  : [1688114741, 39024097]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/ElementaryFunctions.swift"
+  : [1688114741, 39344655]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/Float+Real.swift"
+  : [1688114741, 39514665]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/Float16+Real.swift"
+  : [1688114741, 39691115]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/Float80+Real.swift"
+  : [1688114741, 39882896]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/Real.swift": [1688114741, 40244721]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-numerics/Sources/RealModule/RealFunctions.swift"
+  : [1688114741, 40396885]

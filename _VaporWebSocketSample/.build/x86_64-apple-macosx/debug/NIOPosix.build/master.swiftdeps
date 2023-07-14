@@ -1,0 +1,81 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "01d2fe26f1676fbdfa402c88362d073366e0da1491e3c2fc39a6e7d94b6fc339"
+build_start_time: [1688114812, 746359000]
+build_end_time: [1688114816, 112184000]
+inputs:
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/BSDSocketAPICommon.swift"
+  : [1688114740, 656826014]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/BSDSocketAPIPosix.swift"
+  : [1688114740, 657016462]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/BSDSocketAPIWindows.swift"
+  : [1688114740, 657192029]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/BaseSocket.swift": [1688114740, 657707617]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/BaseSocketChannel+SocketOptionProvider.swift"
+  : [1688114740, 658164425]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/BaseSocketChannel.swift"
+  : [1688114740, 658789034]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/BaseStreamSocketChannel.swift"
+  : [1688114740, 659130758]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/Bootstrap.swift": [1688114740, 660146318]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/ControlMessage.swift"
+  : [1688114740, 660388678]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/DatagramVectorReadManager.swift"
+  : [1688114740, 660981386]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/FileDescriptor.swift"
+  : [1688114740, 661216444]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/GetaddrinfoResolver.swift"
+  : [1688114740, 661434753]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/HappyEyeballs.swift"
+  : [1688114740, 661683630]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/IO.swift": [1688114740, 661960683]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/IntegerBitPacking.swift"
+  : [1688114740, 662092584]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/IntegerTypes.swift": [1688114740, 662265365]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/Linux.swift": [1688114740, 662412606]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/LinuxCPUSet.swift": [1688114740, 662596683]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/LinuxUring.swift": [1688114740, 663240697]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/MultiThreadedEventLoopGroup.swift"
+  : [1688114740, 663520913]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/NIOThreadPool.swift"
+  : [1688114740, 663738759]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/NonBlockingFileIO.swift"
+  : [1688114740, 665111406]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/PendingDatagramWritesManager.swift"
+  : [1688114740, 665817300]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/PendingWritesManager.swift"
+  : [1688114740, 666136266]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/PipeChannel.swift": [1688114740, 666589892]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/PipePair.swift": [1688114740, 666827220]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/PointerHelpers.swift"
+  : [1688114740, 666964611]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/Pool.swift": [1688114740, 667169094]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/PooledRecvBufferAllocator.swift"
+  : [1688114740, 667358625]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/RawSocketBootstrap.swift"
+  : [1688114740, 667529531]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/Resolver.swift": [1688114740, 667712812]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/Selectable.swift": [1688114740, 667913785]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/SelectableChannel.swift"
+  : [1688114740, 668067465]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/SelectableEventLoop.swift"
+  : [1688114740, 668669366]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/SelectorEpoll.swift"
+  : [1688114740, 668916685]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/SelectorGeneric.swift"
+  : [1688114740, 669140770]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/SelectorKqueue.swift"
+  : [1688114740, 669533523]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/SelectorUring.swift"
+  : [1688114740, 669885367]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/ServerSocket.swift": [1688114740, 670077262]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/Socket.swift": [1688114740, 670269382]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/SocketChannel.swift"
+  : [1688114740, 670693945]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/SocketProtocols.swift"
+  : [1688114740, 670881984]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/System.swift": [1688114740, 671489903]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/Thread.swift": [1688114740, 671722904]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/ThreadPosix.swift": [1688114740, 671939106]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/ThreadWindows.swift"
+  : [1688114740, 672146329]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOPosix/Utilities.swift": [1688114740, 672353393]

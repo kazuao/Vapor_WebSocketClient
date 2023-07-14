@@ -1,0 +1,33 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "2e84c983223114ba7d24a775a2f0f3496f053b71a86f4ffddbf58d613350302d"
+build_start_time: [1688114852, 274650000]
+build_end_time: [1688114854, 159986000]
+inputs:
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOFilterEmptyWritesHandler.swift"
+  : [1688114738, 418362061]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSBootstraps.swift"
+  : [1688114738, 418839268]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSChannelOptions.swift"
+  : [1688114738, 419174232]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSConnectionBootstrap.swift"
+  : [1688114738, 419412234]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSConnectionChannel.swift"
+  : [1688114738, 420060229]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSErrors.swift"
+  : [1688114738, 421074576]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSEventLoop.swift"
+  : [1688114738, 421305119]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSEventLoopGroup.swift"
+  : [1688114738, 421487391]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSListenerBootstrap.swift"
+  : [1688114738, 421995599]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSListenerChannel.swift"
+  : [1688114738, 422280463]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSNetworkEvents.swift"
+  : [1688114738, 422468638]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/SocketAddress+NWEndpoint.swift"
+  : [1688114738, 422884024]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/StateManagedChannel.swift"
+  : [1688114738, 423217372]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/TCPOptions+SocketChannelOption.swift"
+  : [1688114738, 423419518]

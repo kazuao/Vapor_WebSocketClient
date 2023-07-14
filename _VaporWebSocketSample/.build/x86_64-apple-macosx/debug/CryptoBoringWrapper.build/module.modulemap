@@ -1,0 +1,4 @@
+module CryptoBoringWrapper {
+    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/CryptoBoringWrapper.build/CryptoBoringWrapper-Swift.h"
+    requires objc
+}

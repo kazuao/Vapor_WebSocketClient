@@ -1,0 +1,26 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9f373528d26d38917485c0abb11dfb93cb92c0cb6fc733958dc9d88decf12b6b"
+build_start_time: [1688114816, 952405000]
+build_end_time: [1688114822, 691219000]
+inputs:
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift"
+  : [1688114740, 646905453]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1688114740, 647356001]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1688114740, 647613126]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaderValidator.swift"
+  : [1688114740, 647791244]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaders+Validation.swift"
+  : [1688114740, 647954282]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift"
+  : [1688114740, 648171638]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift"
+  : [1688114740, 648483268]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift"
+  : [1688114740, 648655130]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift"
+  : [1688114740, 648923235]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1688114740, 650018590]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift"
+  : [1688114740, 650307850]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift"
+  : [1688114740, 650540019]

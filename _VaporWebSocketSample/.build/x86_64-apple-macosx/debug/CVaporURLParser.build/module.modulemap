@@ -1,0 +1,4 @@
+module CVaporURLParser {
+    umbrella "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/checkouts/vapor/Sources/CVaporURLParser/include"
+    export *
+}

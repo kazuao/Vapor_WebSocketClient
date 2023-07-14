@@ -1,0 +1,4 @@
+module NIOTLS {
+    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/NIOTLS-Swift.h"
+    requires objc
+}

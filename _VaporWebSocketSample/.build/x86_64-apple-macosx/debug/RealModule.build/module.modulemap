@@ -1,0 +1,4 @@
+module RealModule {
+    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/RealModule.build/RealModule-Swift.h"
+    requires objc
+}

@@ -1,0 +1,379 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "8e7b076481854b2dcff5856acf6473e951a9033d4fa99a6bbe62d2b6d0187ae2"
+build_start_time: [1688114862, 81989000]
+build_end_time: [1688114871, 583069000]
+inputs:
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Application.swift": [1688114735, 854922735]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Authentication/AuthenticationCache.swift"
+  : [1688114735, 855468773]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Authentication/Authenticator.swift"
+  : [1688114735, 855675147]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Authentication/BasicAuthorization.swift"
+  : [1688114735, 855846266]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Authentication/BearerAuthorization.swift"
+  : [1688114735, 856017114]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Authentication/GuardMiddleware.swift"
+  : [1688114735, 856706382]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Authentication/RedirectMiddleware.swift"
+  : [1688114735, 856991503]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Authentication/SessionAuthenticatable.swift"
+  : [1688114735, 857260357]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Bcrypt/Bcrypt.swift": [1688114735, 857689424]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Cache/Application+Cache.swift"
+  : [1688114735, 857930070]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Cache/Cache.swift": [1688114735, 858489920]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Cache/CacheExpirationTime.swift"
+  : [1688114735, 858655912]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Cache/MemoryCache.swift": [1688114735, 858850816]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Cache/Request+Cache.swift": [1688114735, 859012023]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Client/Application+Clients.swift"
+  : [1688114735, 859270908]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Client/Client.swift": [1688114735, 859429575]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Client/ClientRequest.swift"
+  : [1688114735, 859585028]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Client/ClientResponse.swift"
+  : [1688114735, 859751966]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Client/Request+Client.swift"
+  : [1688114735, 859893418]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Commands/BootCommand.swift"
+  : [1688114735, 860116356]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Commands/CommandContext+Application.swift"
+  : [1688114735, 860264069]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Commands/RoutesCommand.swift"
+  : [1688114735, 860709449]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Commands/ServeCommand.swift"
+  : [1688114735, 860867897]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/AnyResponse+Concurrency.swift"
+  : [1688114735, 861615196]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncBasicResponder.swift"
+  : [1688114735, 861758242]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncMiddleware.swift"
+  : [1688114735, 861895556]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncPasswordHasher+Concurrency.swift"
+  : [1688114735, 862098439]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncSessionDriver.swift"
+  : [1688114735, 862303853]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/Authentication+Concurrency.swift"
+  : [1688114735, 862478383]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/Cache+Concurrency.swift"
+  : [1688114735, 862616356]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/Client+Concurrency.swift"
+  : [1688114735, 862772816]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/FileIO+Concurrency.swift"
+  : [1688114735, 863256200]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/Request+Concurrency.swift"
+  : [1688114735, 863450178]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/Responder+Concurrency.swift"
+  : [1688114735, 863591378]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/ResponseCodable+Concurrency.swift"
+  : [1688114735, 863771261]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/RoutesBuilder+Concurrency.swift"
+  : [1688114735, 864211062]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/ViewRenderer+Concurrency.swift"
+  : [1688114735, 864357843]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Concurrency/WebSocket+Concurrency.swift"
+  : [1688114735, 864511663]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/ContainerGetPathExecutor.swift"
+  : [1688114735, 864725688]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/Content.swift": [1688114735, 865169652]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/ContentCoders.swift"
+  : [1688114735, 865303945]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/ContentConfiguration.swift"
+  : [1688114735, 865453405]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/ContentContainer.swift"
+  : [1688114735, 865954449]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/JSONCoder+Custom.swift"
+  : [1688114735, 866098045]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/JSONCoders+Content.swift"
+  : [1688114735, 866234326]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/PlaintextDecoder.swift"
+  : [1688114735, 866370882]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/PlaintextEncoder.swift"
+  : [1688114735, 866513724]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/URLQueryCoders.swift"
+  : [1688114735, 866652081]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Content/URLQueryContainer.swift"
+  : [1688114735, 866816166]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Core/Core.swift": [1688114735, 867024350]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Core/Running.swift": [1688114735, 867162775]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Deprecations/CORSMiddleware+AllowOriginSetting.swift"
+  : [1688114735, 867675112]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Deprecations/CORSMiddleware+Configuration+exposedHeaders.swift"
+  : [1688114735, 867829014]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Deprecations/DotEnvFile+load.swift"
+  : [1688114735, 868017269]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Deprecations/Routes+caseInsenstive.swift"
+  : [1688114735, 868154756]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Deprecations/Validatable+validate.swift"
+  : [1688114735, 868297182]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Environment/Environment+Process.swift"
+  : [1688114735, 868705736]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Environment/Environment+Secret.swift"
+  : [1688114735, 868862453]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Environment/Environment.swift"
+  : [1688114735, 869024943]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Error/Abort.swift": [1688114735, 869257055]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Error/AbortError.swift": [1688114735, 869443109]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Error/DebuggableError.swift"
+  : [1688114735, 869606299]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Error/Demangler.swift": [1688114735, 869737598]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Error/ErrorSource.swift": [1688114735, 869868570]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Error/StackTrace.swift": [1688114735, 870047011]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Exports.swift": [1688114735, 870199679]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Application+HTTP.swift"
+  : [1688114735, 870389316]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/BasicResponder.swift": [1688114735, 870533700]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/BodyStream.swift": [1688114735, 870656973]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Client/Application+HTTP+Client.swift"
+  : [1688114735, 870868450]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Client/EventLoopHTTPClient.swift"
+  : [1688114735, 871024365]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/EndpointCache.swift": [1688114735, 871184769]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/HTTPMethod+String.swift"
+  : [1688114735, 871406539]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/HTTPStatus.swift": [1688114735, 871584924]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPCookies.swift"
+  : [1688114735, 871871558]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaderCacheControl.swift"
+  : [1688114735, 872086752]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaderExpires.swift"
+  : [1688114735, 872277104]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaderLastModified.swift"
+  : [1688114735, 872439115]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Cache.swift"
+  : [1688114735, 872594353]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Connection.swift"
+  : [1688114735, 872730263]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+ContentDisposition.swift"
+  : [1688114735, 872874641]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+ContentRange.swift"
+  : [1688114735, 873042296]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Directive.swift"
+  : [1688114735, 873569437]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Forwarded.swift"
+  : [1688114735, 873719568]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Link.swift"
+  : [1688114735, 873908920]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Name.swift"
+  : [1688114735, 874154100]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders.swift"
+  : [1688114735, 874356668]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPMediaType.swift"
+  : [1688114735, 874695284]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPMediaTypePreference.swift"
+  : [1688114735, 874889086]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Responder.swift": [1688114735, 875033829]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/Application+HTTP+Server.swift"
+  : [1688114735, 875584325]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServer.swift"
+  : [1688114735, 875874100]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerHandler.swift"
+  : [1688114735, 876075861]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerRequestDecoder.swift"
+  : [1688114735, 876271353]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerResponseEncoder.swift"
+  : [1688114735, 876442532]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerUpgradeHandler.swift"
+  : [1688114735, 876613814]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Logging/Logger+Report.swift"
+  : [1688114735, 876819293]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Logging/LoggingSystem+Environment.swift"
+  : [1688114735, 876981029]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Middleware/Application+Middleware.swift"
+  : [1688114735, 877192220]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Middleware/CORSMiddleware.swift"
+  : [1688114735, 877724428]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Middleware/ErrorMiddleware.swift"
+  : [1688114735, 877909857]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Middleware/FileMiddleware.swift"
+  : [1688114735, 878088125]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Middleware/Middleware.swift"
+  : [1688114735, 878259384]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Middleware/MiddlewareConfiguration.swift"
+  : [1688114735, 878729044]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Middleware/RouteLoggingMiddleware.swift"
+  : [1688114735, 878905334]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Multipart/File+Multipart.swift"
+  : [1688114735, 879135549]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Multipart/FormDataDecoder+Content.swift"
+  : [1688114735, 879341875]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Multipart/FormDataEncoder+Content.swift"
+  : [1688114735, 879494605]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Passwords/Application+Password.swift"
+  : [1688114735, 879753251]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Passwords/Application+Passwords.swift"
+  : [1688114735, 879911057]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Passwords/AsyncPasswordHasher.swift"
+  : [1688114735, 880065195]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Passwords/BcryptHasher.swift"
+  : [1688114735, 880210358]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Passwords/PasswordHasher.swift"
+  : [1688114735, 880354815]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Passwords/PlaintextHasher.swift"
+  : [1688114735, 880764508]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Passwords/Request+Password.swift"
+  : [1688114735, 880916591]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Request/Redirect.swift": [1688114735, 881182705]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Request/Request+Body.swift"
+  : [1688114735, 881653848]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Request/Request+BodyStream.swift"
+  : [1688114735, 881808449]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Request/Request.swift": [1688114735, 882018956]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Responder/Application+Responder.swift"
+  : [1688114735, 882256862]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Responder/DefaultResponder.swift"
+  : [1688114735, 882484346]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Response/Response+Body.swift"
+  : [1688114735, 882752635]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Response/Response.swift": [1688114735, 883130028]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Response/ResponseCodable.swift"
+  : [1688114735, 883314190]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/Application+Routes.swift"
+  : [1688114735, 883825401]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/Parameters+Require.swift"
+  : [1688114735, 883988618]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/Request+WebSocket.swift"
+  : [1688114735, 884129107]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/Route.swift": [1688114735, 884280875]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/RouteCollection.swift"
+  : [1688114735, 884432369]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/Routes.swift": [1688114735, 884580604]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+Group.swift"
+  : [1688114735, 884725515]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+Method.swift"
+  : [1688114735, 884904054]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+Middleware.swift"
+  : [1688114735, 885068709]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+WebSocket.swift"
+  : [1688114735, 885206873]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder.swift"
+  : [1688114735, 885336718]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Security/OTP.swift": [1688114735, 885585248]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Server/Application+Servers.swift"
+  : [1688114735, 885788532]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Server/Server.swift": [1688114735, 885957369]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Sessions/Application+Sessions.swift"
+  : [1688114735, 886157635]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Sessions/MemorySessions.swift"
+  : [1688114735, 886300643]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Sessions/Request+Session.swift"
+  : [1688114735, 886428876]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Sessions/Session.swift": [1688114735, 886583838]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionCache.swift"
+  : [1688114735, 886714207]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionData.swift"
+  : [1688114735, 886851747]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionDriver.swift"
+  : [1688114735, 886987715]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionsConfiguration.swift"
+  : [1688114735, 887137059]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionsMiddleware.swift"
+  : [1688114735, 887301289]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/DateFormatter+threadSpecific.swift"
+  : [1688114735, 887516430]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormData.swift"
+  : [1688114735, 887671743]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormDecoder.swift"
+  : [1688114735, 887877075]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormEncoder.swift"
+  : [1688114735, 888131252]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormError.swift"
+  : [1688114735, 888310110]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormParser.swift"
+  : [1688114735, 888446577]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormSerializer.swift"
+  : [1688114735, 888583668]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLQueryFragmentConvertible.swift"
+  : [1688114735, 888729868]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/AnyResponse.swift"
+  : [1688114735, 888937617]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/Array+Random.swift"
+  : [1688114735, 889092885]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/Base32.swift": [1688114735, 889258962]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/Base64.swift": [1688114735, 889444884]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/BaseN.swift": [1688114735, 889610362]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/BasicCodingKey.swift"
+  : [1688114735, 889740308]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/ByteCount.swift": [1688114735, 890224021]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/Bytes+Hex.swift": [1688114735, 890390056]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/Bytes+SecureCompare.swift"
+  : [1688114735, 890535614]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/Collection+Safe.swift"
+  : [1688114735, 890669548]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/DataProtocol+Copy.swift"
+  : [1688114735, 890799742]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/DecoderUnwrapper.swift"
+  : [1688114735, 890928733]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/DirectoryConfiguration.swift"
+  : [1688114735, 891084077]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/DotEnv.swift": [1688114735, 891221897]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/Extendable.swift"
+  : [1688114735, 891393274]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/File.swift": [1688114735, 891543705]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/FileIO.swift": [1688114735, 891768544]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/LifecycleHandler.swift"
+  : [1688114735, 891915380]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/OptionalType.swift"
+  : [1688114735, 892077356]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/RFC1123.swift": [1688114735, 892231378]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/SocketAddress+Hostname.swift"
+  : [1688114735, 892367335]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/Storage.swift": [1688114735, 892882989]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/String+IsIPAddress.swift"
+  : [1688114735, 893029133]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/Thread.swift": [1688114735, 893164592]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Utilities/URI.swift": [1688114735, 893317797]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/RangeResult.swift"
+  : [1688114735, 893559367]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validatable.swift"
+  : [1688114735, 893706793]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validation.swift"
+  : [1688114735, 893881704]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/ValidationKey.swift"
+  : [1688114735, 894021563]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validations.swift"
+  : [1688114735, 894192083]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/ValidationsError.swift"
+  : [1688114735, 894358595]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validator.swift"
+  : [1688114735, 894496249]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/ValidatorResult.swift"
+  : [1688114735, 894639945]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/And.swift"
+  : [1688114735, 894848025]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Case.swift"
+  : [1688114735, 895002228]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/CharacterSet.swift"
+  : [1688114735, 895177840]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Count.swift"
+  : [1688114735, 895339794]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Email.swift"
+  : [1688114735, 895892185]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Empty.swift"
+  : [1688114735, 896052261]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/In.swift"
+  : [1688114735, 896210568]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Nil.swift"
+  : [1688114735, 896377120]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/NilIgnoring.swift"
+  : [1688114735, 896814952]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Not.swift"
+  : [1688114735, 896957602]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Or.swift"
+  : [1688114735, 897095235]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Pattern.swift"
+  : [1688114735, 897231143]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Range.swift"
+  : [1688114735, 897388637]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/URL.swift"
+  : [1688114735, 897534980]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Valid.swift"
+  : [1688114735, 897681839]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/View/Application+Views.swift"
+  : [1688114735, 897879054]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/View/PlaintextRenderer.swift"
+  : [1688114735, 898037721]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/View/Request+View.swift": [1688114735, 898168565]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/View/View.swift": [1688114735, 898303789]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/View/ViewRenderer.swift": [1688114735, 898433032]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/vapor/Sources/Vapor/_Deprecations.swift": [1688114735, 898566236]

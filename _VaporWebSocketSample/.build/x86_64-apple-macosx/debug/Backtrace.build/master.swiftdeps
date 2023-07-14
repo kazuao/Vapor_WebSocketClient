@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0e175bac2976059d1f59bc4fc5b799b32c4a914a2ec9edc5a975fc24f696e7c7"
+build_start_time: [1688114803, 365375000]
+build_end_time: [1688114803, 620814000]
+inputs:
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-backtrace/Sources/Backtrace/Backtrace.swift"
+  : [1688114741, 903569622]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-backtrace/Sources/Backtrace/Demangle.swift"
+  : [1688114741, 903777906]

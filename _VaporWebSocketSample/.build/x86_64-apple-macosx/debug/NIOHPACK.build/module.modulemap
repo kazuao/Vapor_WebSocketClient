@@ -1,0 +1,4 @@
+module NIOHPACK {
+    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOHPACK.build/NIOHPACK-Swift.h"
+    requires objc
+}

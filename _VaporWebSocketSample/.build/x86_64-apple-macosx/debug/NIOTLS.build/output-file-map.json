@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/master.swiftdeps"
+  },
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": {
+    "dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.d",
+    "object": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swift.o",
+    "swiftmodule": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swiftdeps"
+  },
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOTLS/NIOTypedApplicationProtocolNegotiationHandler.swift": {
+    "dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/NIOTypedApplicationProtocolNegotiationHandler.d",
+    "object": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/NIOTypedApplicationProtocolNegotiationHandler.swift.o",
+    "swiftmodule": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/NIOTypedApplicationProtocolNegotiationHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/NIOTypedApplicationProtocolNegotiationHandler.swiftdeps"
+  },
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOTLS/ProtocolNegotiationHandlerStateMachine.swift": {
+    "dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/ProtocolNegotiationHandlerStateMachine.d",
+    "object": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/ProtocolNegotiationHandlerStateMachine.swift.o",
+    "swiftmodule": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/ProtocolNegotiationHandlerStateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/ProtocolNegotiationHandlerStateMachine.swiftdeps"
+  },
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": {
+    "dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/SNIHandler.d",
+    "object": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/SNIHandler.swift.o",
+    "swiftmodule": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/SNIHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/SNIHandler.swiftdeps"
+  },
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": {
+    "dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/TLSEvents.d",
+    "object": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/TLSEvents.swift.o",
+    "swiftmodule": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/TLSEvents~partial.swiftmodule",
+    "swift-dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/NIOTLS.build/TLSEvents.swiftdeps"
+  }
+}

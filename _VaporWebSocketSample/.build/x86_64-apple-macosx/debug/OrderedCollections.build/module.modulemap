@@ -1,0 +1,4 @@
+module OrderedCollections {
+    header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/OrderedCollections.build/OrderedCollections-Swift.h"
+    requires objc
+}

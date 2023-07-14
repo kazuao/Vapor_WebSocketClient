@@ -1,0 +1,28 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "8bb4ba7c74b59fca1dd184b5b7a4aa0f001815266127e4e46239be5703f45234"
+build_start_time: [1688114871, 970199000]
+build_end_time: [1688114873, 203166000]
+inputs:
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Concurrency/FluentProvider+Concurrency.swift"
+  : [1688114739, 264299463]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Concurrency/ModelCredentialsAuthenticatable+Concurrency.swift"
+  : [1688114739, 264450861]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Concurrency/Pagination+Concurrency.swift"
+  : [1688114739, 264580403]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Concurrency/Sessions+Concurrency.swift"
+  : [1688114739, 264767651]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Exports.swift": [1688114739, 265120860]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Fluent+Cache.swift": [1688114739, 265264750]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Fluent+History.swift": [1688114739, 265418535]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Fluent+Paginate.swift": [1688114739, 265564380]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Fluent+Pagination.swift": [1688114739, 265759327]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/Fluent+Sessions.swift": [1688114739, 265919433]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/FluentProvider.swift": [1688114739, 266053264]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/MigrateCommand.swift": [1688114739, 266198375]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/ModelAuthenticatable.swift"
+  : [1688114739, 266349953]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/ModelCredentialsAuthenticatable.swift"
+  : [1688114739, 266472948]
+  ? "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/ModelTokenAuthenticatable.swift"
+  : [1688114739, 266605104]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/fluent/Sources/Fluent/PageLimit.swift": [1688114739, 266750996]

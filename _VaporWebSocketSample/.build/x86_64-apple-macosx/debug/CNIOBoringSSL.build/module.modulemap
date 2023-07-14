@@ -1,0 +1,4 @@
+module CNIOBoringSSL {
+    umbrella header "/Users/kazunori.aoki/Desktop/VaporWebSocketSample/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL.h"
+    export *
+}

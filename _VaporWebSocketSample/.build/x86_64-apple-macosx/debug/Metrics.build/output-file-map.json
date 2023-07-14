@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/Metrics.build/master.swiftdeps"
+  },
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": {
+    "dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/Metrics.build/Metrics.d",
+    "object": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/Metrics.build/Metrics.swift.o",
+    "swiftmodule": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/Metrics.build/Metrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/.build/x86_64-apple-macosx/debug/Metrics.build/Metrics.swiftdeps"
+  }
+}

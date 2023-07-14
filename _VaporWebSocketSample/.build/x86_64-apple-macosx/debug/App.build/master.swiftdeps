@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "aded8983fbf7c2ce693015a1c42469050131e43e422aa73a244d6c7f4abe3d81"
+build_start_time: [1688114873, 450551000]
+build_end_time: [1688114878, 694586000]
+inputs:
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/Sources/App/Controllers/TodoController.swift": [1688114212, 528468363]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/Sources/App/Migrations/CreateTodo.swift": [1688114212, 528666877]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/Sources/App/Models/Todo.swift": [1688114212, 528956795]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/Sources/App/configure.swift": [1688114230, 400369122]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/Sources/App/entrypoint.swift": [1688114212, 529354774]
+  "/Users/kazunori.aoki/Desktop/vapor_websocket/VaporWebSocketSample/Sources/App/routes.swift": [1688114230, 401891211]
